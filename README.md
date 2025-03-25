@@ -3,8 +3,9 @@
 ## 📺 Youtube 시연 영상 (사진을 클릭하면 영상 재생)
 
 <a href="https://youtu.be/7KRCRfDVn_E">
-  <img src="https://img.youtube.com/vi/7KRCRfDVn_E/maxresdefault.jpg" width="600px">
+  <img src="https://img.youtube.com/vi/7KRCRfDVn_E/hqdefault.jpg" width="600px">
 </a>
+
 
 ---
 
