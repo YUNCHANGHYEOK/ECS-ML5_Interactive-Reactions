@@ -88,15 +88,15 @@
 ## 🖼️ 예시 시각 자료
 
 <table>
-  <tr>
+    <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ef3fecb8-4ddf-429e-819d-14d8f58d4159" width="600px"><br>
+      <img src="https://github.com/user-attachments/assets/be2528c0-be0d-4ac3-a42e-bec6bddb521f" width="600px"><br>
       <b>📌 기본 UI 구성 화면</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/174bddaf-0412-4905-8793-1cc847054be6" width="600px"><br>
+      <img src="https://github.com/user-attachments/assets/6950a3f7-ede3-4c1b-8415-9758a2534a4e" width="600px"><br>
       <b>🎨 HSV 색상 선택 UI</b>
     </td>
   </tr>
@@ -120,14 +120,14 @@
 - 손가락으로 원하는 색 클릭 → 손 두 개 인식되면 색상 고정됨
 
 ### 4. 다양한 효과 버튼
-- "GOOD", "FIREWORK" 버튼 → 화면 중앙에 시각적 효과 표시
+- "GOOD", "FIREWORK, sad , love " 버튼 → 화면 중앙에 시각적 효과 표시
 
 ### 5. UI 버튼
 - 쓰기 모드 ON/OFF
 - 지우기 모드 ON/OFF
 - 전체 선 지우기
 - 컬러 휠 열기
-- 이펙트 실행 (Good / Firework/ Love/ Sad)
+- 이펙트 실행 (Good / Firework / Love / Sad)
 
 ---
 
